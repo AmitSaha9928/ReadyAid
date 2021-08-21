@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574011779641",
+    "project_id": "ready-aid",
+    "storage_bucket": "ready-aid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574011779641:android:338bfdd6b11363c7687be8",
+        "android_client_info": {
+          "package_name": "com.tridenttech.readyaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574011779641-h9bome3smblrnk6ghfdl7mejl90pshj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eEhV07KRavDZ4iH6xMt5Ab857vWfIs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574011779641-h9bome3smblrnk6ghfdl7mejl90pshj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
